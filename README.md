@@ -147,16 +147,6 @@ public function index()
 }
 ```
 
-## 🎨 Screenshots
-
-### Dashboard Overview
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Beautiful+Dashboard)
-
-### Post Management
-![Post Management](https://via.placeholder.com/800x400/059669/FFFFFF?text=Intuitive+Post+Editor)
-
-### Comments System
-![Comments](https://via.placeholder.com/800x400/DC2626/FFFFFF?text=Interactive+Comments)
 
 ## 🔧 Configuration
 

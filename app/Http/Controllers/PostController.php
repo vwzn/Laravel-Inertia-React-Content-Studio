@@ -13,7 +13,7 @@ class PostController extends Controller
     {
         $posts = Post::with(['user', 'comments.user'])
                     ->orderBy('created_at', 'desc')
-                    ->paginate(5);
+                    ->paginate(10);
 
         return Inertia::render('Posts/Index', [
             'posts' => $posts
