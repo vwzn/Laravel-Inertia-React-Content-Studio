@@ -58,7 +58,7 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Laravel-Inertia-React-Content-Studio.git
+git clone https://github.com/vwzn/Laravel-Inertia-React-Content-Studio.git
 cd Laravel-Inertia-React-Content-Studio
 
 # Install PHP dependencies
